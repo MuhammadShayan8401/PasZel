@@ -1,0 +1,77 @@
+{
+ "extraction_method": "Developer transcription of figures from the real PDMA Sindh SITREP text (NOT LLM-extracted). Each claim is re-validated against every document's own page text at load time; a claim that does not match a document is rejected.",
+ "claims": [
+  {
+   "incident_title": "Monsoon 2025 - Sindh",
+   "incident_type": "flood",
+   "location": "Sindh",
+   "as_of": null,
+   "subject": "Sindh",
+   "predicate": "deaths",
+   "value": 28,
+   "page": 3,
+   "quote": "Deaths 28 Injured 40",
+   "heading": "Cumulative Causalities"
+  },
+  {
+   "incident_title": "Monsoon 2025 - Sindh",
+   "incident_type": "flood",
+   "location": "Sindh",
+   "as_of": null,
+   "subject": "Sindh",
+   "predicate": "injured",
+   "value": 40,
+   "page": 3,
+   "quote": "Deaths 28 Injured 40",
+   "heading": "Cumulative Causalities"
+  },
+  {
+   "incident_title": "Monsoon 2025 - Sindh",
+   "incident_type": "flood",
+   "location": "Sindh",
+   "as_of": null,
+   "subject": "Sindh",
+   "predicate": "livestock_lost",
+   "value": 85,
+   "page": 4,
+   "quote": "Total 61 11 0 3 10 0 85",
+   "heading": "Cumulative Livestock Perished"
+  },
+  {
+   "incident_title": "Monsoon 2025 - Sindh",
+   "incident_type": "flood",
+   "location": "Sindh",
+   "as_of": null,
+   "subject": "Tharparkar",
+   "predicate": "livestock_lost",
+   "value": 71,
+   "page": 4,
+   "quote": "Tharparkar 60 11 - - - - 71",
+   "heading": "Cumulative Livestock Perished"
+  },
+  {
+   "incident_title": "Monsoon 2025 - Sindh",
+   "incident_type": "flood",
+   "location": "Sindh",
+   "as_of": null,
+   "subject": "Sindh",
+   "predicate": "houses_damaged",
+   "value": 87,
+   "page": 4,
+   "quote": "Total 0 0 54 33 87",
+   "heading": "Cumulative Damages of Infrastructure & Private Properties"
+  },
+  {
+   "incident_title": "Monsoon 2025 - Sindh",
+   "incident_type": "flood",
+   "location": "Sindh",
+   "as_of": null,
+   "subject": "Hyderabad",
+   "predicate": "houses_damaged",
+   "value": 83,
+   "page": 4,
+   "quote": "Hyderabad - - 50 33 83",
+   "heading": "Cumulative Damages of Infrastructure & Private Properties"
+  }
+ ]
+}

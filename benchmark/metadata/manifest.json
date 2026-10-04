@@ -1,0 +1,44 @@
+[
+ {
+  "document_id": "ec0bcfc3f821",
+  "source": "PDMA Sindh",
+  "filename": "Sitrep_03-08-2025.pdf",
+  "source_url": "https://pdma.gos.pk/Documents/Monsoon/Monsoon_2025/Situation_Reports/",
+  "source_url_note": "Directory URL as supplied by user; per-file URL unknown; fetch returned HTTP 404 on 2026-10-03",
+  "publication_date": "2025-08-03",
+  "report_ref": "PDMA (SINDH)/(SITREP-38)/2025/6859",
+  "retrieval_date": null,
+  "retrieval_date_note": "not provided by user; not guessed",
+  "sha256": "ec0bcfc3f821f806a8b0104c42300057c60d60b67f9cb06d311a57ea2a4ecadb",
+  "file_size": 298942,
+  "pages": 7
+ },
+ {
+  "document_id": "e3f1cba310d6",
+  "source": "PDMA Sindh",
+  "filename": "Sitrep_04-08-2025.pdf",
+  "source_url": "https://pdma.gos.pk/Documents/Monsoon/Monsoon_2025/Situation_Reports/",
+  "source_url_note": "Directory URL as supplied by user; per-file URL unknown; fetch returned HTTP 404 on 2026-10-03",
+  "publication_date": "2025-08-04",
+  "report_ref": "PDMA (SINDH)/(SITREP-39)/2025/6858",
+  "retrieval_date": null,
+  "retrieval_date_note": "not provided by user; not guessed",
+  "sha256": "e3f1cba310d6a00176968081f6180e1d7e2fbd42aaaca2d6917c87b449e3444d",
+  "file_size": 298614,
+  "pages": 7
+ },
+ {
+  "document_id": "a836deb9b5e6",
+  "source": "PDMA Sindh",
+  "filename": "Sitrep_05-08-2025.pdf",
+  "source_url": "https://pdma.gos.pk/Documents/Monsoon/Monsoon_2025/Situation_Reports/",
+  "source_url_note": "Directory URL as supplied by user; per-file URL unknown; fetch returned HTTP 404 on 2026-10-03",
+  "publication_date": "2025-08-05",
+  "report_ref": "PDMA (SINDH)/(SITREP-40)/2025/6868",
+  "retrieval_date": null,
+  "retrieval_date_note": "not provided by user; not guessed",
+  "sha256": "a836deb9b5e6657db648a271f028382d4b1350305de775abed4167f669435257",
+  "file_size": 296714,
+  "pages": 7
+ }
+]
